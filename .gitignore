@@ -1,0 +1,43 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv*/
+venv*/
+
+# ===== PyInstaller 构建产物 =====
+build*/
+dist*/
+*.log
+pyinstaller*.log
+vc_redist*.exe
+
+# ===== 运行 / 调试产物 =====
+outputs/
+recno*/
+recon/
+test_ext_contacts/
+测试中文路径/
+测试外部/
+测试外部联系人/
+debug_*.png
+debug_*.py
+probe_*.py
+recon.py
+explore_contacts.py
+go_contacts.py
+scan_customers.py
+scan_message_list.py
+test_click.py
+test_extract.py
+test_scan_ext.py
+at_tpl_*.png
+at_template_*.png
+*.xlsx
+
+# ===== 校准模板（每台机器需重新校准生成）=====
+templates/
+
+# ===== IDE =====
+.idea/
+.vscode/

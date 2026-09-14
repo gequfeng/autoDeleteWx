@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-09-01T10:35:12.374937",
+  "source_images": [
+    "1_test.png",
+    "debug_sidebar.png"
+  ],
+  "contacts_icon_template": "templates\\contacts_icon.png",
+  "wechat_icon_template": "templates\\wechat_icon.png",
+  "at_templates": [
+    "templates\\at_calib_00.png"
+  ],
+  "list_region": [
+    60,
+    60,
+    340,
+    994
+  ],
+  "item_height": 65,
+  "window_size_hint": [
+    1911,
+    1014
+  ]
+}
